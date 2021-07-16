@@ -17,8 +17,8 @@
     - Tunnels (BGP/MPLS, VPLS, EVPN, OpenVPN, WireGaurd)
 
   - :speech_balloon: I can be reached @
-    - 📫 iks0_x1b@pm[.]me
-    - 🔒 https://t[.]me/dibbl
+    - 📫 iks0_x1b@pm.me
+    - 🔒 https://t.me/dibbl
 
 <!---
 iks0x1b/iks0x1b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
