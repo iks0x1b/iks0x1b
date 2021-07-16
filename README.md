@@ -9,7 +9,7 @@
     - ksh/csh/bash
     - BSD(freeBSD, openBSD, netBSD) systems engineering
     - Linux(debian, centos, RHEL, openSUSE, ubuntu, alpine, arch) systems engineering
-    - AWS/Vultr/Linode deployments/maintinence
+    - AWS/Vultr/Linode deployments/maintenance
     - Network Function Virtualization/SDN deployments (NSX, ACI, evpn-vxlan)
     - Enterprise firewall technology (Palo-Alto, Cisco ASA, Fortinet)
     - Enterprise data center technology (Cumulus, Arista, Juniper, Cisco, Edge-Core)
@@ -17,8 +17,8 @@
     - Tunnels (BGP/MPLS, VPLS, EVPN, OpenVPN, WireGaurd)
 
   - :speech_balloon: I can be reached @
-    - 📫 iks0_x1b@pm.me
-    - 🔒 https://t.me/dibbl
+    - 📫 iks0_x1b@pm[.]me
+    - 🔒 https://t[.]me/dibbl
 
 <!---
 iks0x1b/iks0x1b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
