@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning
     - rust && C
     - plan9
-- 🧠 I’m looking to collaborate on \\\*, but have experience/fluency in:
+- 🧠 I’m looking to collaborate on \\\\*, but have experience/fluency in:
     - Python
     - ksh/csh/bash
     - BSD(freeBSD, openBSD, netBSD) systems engineering
