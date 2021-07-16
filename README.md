@@ -1,9 +1,10 @@
 
 - 👋 Hi, I’m @iks0x1b
 - 👀 I’m interested in network security/infrastructure automation and the effects abstractions have on complex systems.
-- 🌱 I’m currently learning rust, and playing around with plan9
+- 🌱 I’m currently learning
+    - rust && C
+    - plan9
 - 🧠 I’m looking to collaborate on \\*, but have experience/fluency in:
-    - Visual Basic
     - Python
     - ksh/csh/bash
     - BSD(freeBSD, openBSD, netBSD) systems engineering
