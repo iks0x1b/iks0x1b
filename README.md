@@ -7,16 +7,11 @@
 - 🧠 I’m looking to collaborate on \\\\*, but have experience/fluency in:
     - Python
     - ksh/csh/bash
-    - BSD(freeBSD, openBSD, netBSD) systems engineering
-    - Linux(debian, centos, RHEL, openSUSE, ubuntu, alpine, arch) systems engineering
-    - AWS/Vultr/Linode deployments/maintenance
-    - Network Function Virtualization/SDN deployments (NSX, ACI, evpn-vxlan)
-    - Enterprise firewall technology (Palo-Alto, Cisco ASA, Fortinet)
-    - Enterprise data center technology (Cumulus, Arista, Juniper, Cisco, Edge-Core)
-    - Open-source NOS technology (PF-sense, OPN-sense, SONiC, VyOS)
-    - Tunnels (BGP/MPLS, VPLS, EVPN, OpenVPN, WireGaurd)
-
-  - :speech_balloon: I can be reached @
+    - BSD/linux systems engineering
+    - AWS/Vultr/Linode
+    - Network Function Virtualization/SDN
+    - Enterprise data center fabrics and firewalls
+- :speech_balloon: I can be reached @
     - 📫 iks0_x1b@pm.me
     - 🔒 https://t.me/dibbl
 
