@@ -13,7 +13,6 @@
     - Enterprise data center fabrics and firewalls
 - :speech_balloon: I can be reached @
     - 📫 iks0_x1b@pm.me
-    - 🔒 https://t.me/iks0x1b
 
 <!---
 iks0x1b/iks0x1b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
