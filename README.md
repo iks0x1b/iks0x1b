@@ -2,15 +2,14 @@
 - 👋 Hi, I’m @iks0x1b
 - 👀 I’m interested in network security/infrastructure automation and the effects abstractions have on complex systems.
 - 🌱 I’m currently learning
-    - rust && C
-    - plan9
-- 🧠 I’m looking to collaborate on \\\\*, but have experience/fluency in:
+    - how to write better microservices
+- 🧠 I’m looking to collaborate on anything, but have experience/fluency in:
     - Python
     - ksh/csh/bash
     - BSD/linux systems engineering
     - AWS/Vultr/Linode
     - Network Function Virtualization/SDN
-    - Enterprise data center fabrics and firewalls
+    - Enterprise data center fabrics and firewall management tools
 - :speech_balloon: I can be reached @
     - 📫 iks0_x1b@pm.me
 
